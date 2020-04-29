@@ -1,3 +1,5 @@
+/* general */
+
 * {
     box-sizing: border-box;
 }
@@ -73,7 +75,7 @@ body {
     justify-content: space-between;
 }
 
-/* poop */
+/* lol poop */
 
 .poop-bag {
     position: absolute;
@@ -96,10 +98,6 @@ body {
     top: 0;
     left: 0;
     right: 0;
-    padding: 25px;
-    font-size: 20px;
-    font-weight: bold;
-    border-radius: 12px;
 }
 
 .modal:empty {
@@ -108,4 +106,50 @@ body {
 
 .modal-inner:empty {
     display: none;
+}
+
+/* the fox */
+
+.fox {
+    position: absolute;
+    top: 336px;
+    left: 285px;
+    overflow: hidden;
+}
+
+.fox-pooping {
+    top: 319px;
+    left: 159px;
+}
+
+.fox-celebrate {
+    top: 290px;
+    left: 290px;
+}
+
+.fox-rain {
+    top: 362px;
+}
+
+.fox-hungry {
+    top: 362px;
+}
+
+.fox-eating {
+    top: 362px;
+}
+
+.fox-egg {
+    top: 289px;
+    left: 248px;
+}
+
+.fox-sleep {
+    top: 351px;
+    left: 445px;
+}
+
+.fox-dead {
+    top: 380px;
+    left: 243px;
 }

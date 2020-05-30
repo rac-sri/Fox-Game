@@ -1,7 +1,7 @@
-export const TICKRATE = 3100;
+export const TICKRATE = 3000;
 export const ICONS = ["fish", "poop", "weather"];
-export const RAINCHANCE = 0.9;
-export const SCENE = ["day", "rain "];
+export const RAINCHANCE = 0.5;
+export const SCENES = ["day", "rain "];
 export const DAYLENGTH = 60;
 export const NIGHTLENGTH = 4;
 
